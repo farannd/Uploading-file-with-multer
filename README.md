@@ -1,2 +1,3 @@
 # Uploading-file-with-multer
-Using multer to upload file to mongodb and also nodejs
+
+Using nodejs and multer to upload file to mongodb
